@@ -1,0 +1,37 @@
+Commands in Linux
+1. Ls command    :- Used to list files or directories
+2. ll command    :- Used to list all files with complete information
+3. ls -a command :- Used to list hidden files
+4. ls -l command :- Used to list files or directories
+5. wc command    :- Used to count the number of lines,words,characters in the file.
+6. wc -l command :- Used to count the number of lines in the file
+7. wc -w command :- Used to count the number words in the file
+8. wc -c command :- Used to count the number of characters in the file
+9. Touch command :- Used to Create a file
+10. Cat command  :- Used to see the content inside the file
+11. nano command :- Used to edit the files(after editing type Cntrl S (to save) & Cntrl X (to exit from the editor)
+12. cd command   :- Used to change the directory
+13. cp command   :- Used to copy the contents of the file
+14. mv command   :- Used to rename/ move the new file
+15. rm command   :- Used to remove the file
+16. cd ../       :- Comes out from the child file
+17. ./           :- Can access within folder
+18. ../ ../      :- comes back to top parent directory
+19. rm -r        :- Used to remove directory
+20. mv -r        :- Used to move thr diretory
+21. chmod command:- Used to change the mode of permissions
+[ Permissions :-Owner(u)             r- read grant      d- File or directory]
+                  Group(g)             x- execute
+                  Other(o)             w - write
+
+22. Set using Octal
+   0     No Permission            ---
+   1     Execute Permission       --x
+   2     Write Permission         -w-
+   3     Execute and write perm.  -wx
+   4     read permission          r--
+   5     Read and execute perm.   r-x
+   6     Read and write perm      rw-
+   7     All Permission           rwx
+
+

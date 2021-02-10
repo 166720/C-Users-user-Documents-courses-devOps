@@ -1,0 +1,22 @@
+GIT PROCESS
+
+1. Go to the documents- Create a folder
+2.Now go to C prompt
+c prompt -git --versions(so the version will appear)
+3. config
+    git config --global user.name ""
+    git config --global user.email ""
+    git config --global core.editor "code --wait"
+    git config --global code autocrlf true
+
+4. Now go to cdm path
+5.when path appears type git init to initialise
+6.ceeate a text document in the folder page
+7.now add the text file -git add file.txt
+8. Now commit by : git commit -m "added file"
+9.Look for git status
+10. Go to Github - Create new respository
+git remote add orgin (copy paste the URL)
+11. Now push the file to Github by :
+git push -u orgin master
+12. Refresh the Github and you will see the file added.

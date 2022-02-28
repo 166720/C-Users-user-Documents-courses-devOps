@@ -7,7 +7,7 @@ c prompt -git --versions(so the version will appear)
     git config --global user.name ""
     git config --global user.email ""
     git config --global core.editor "code --wait"
-    git config --global code autocrlf true
+    git config --global core.autocrlf true
 
 4. Now go to cdm path
 5.when path appears type git init to initialise
